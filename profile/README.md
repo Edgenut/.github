@@ -1,3 +1,5 @@
+![Logo of Edgenut Systems, LLC](../assets/edgenut-logo.png)
+
 # Hi there 👋
 
 Edgenut Systems, LLC is an incubator company for developing early stage SaaS products on the Edge and Cloud environments.
