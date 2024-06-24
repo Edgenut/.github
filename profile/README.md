@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Edgenut Systems, LLC is an incubator company for developing early stage SaaS products for Edge and Cloud environments.
+Edgenut Systems, LLC is an incubator company for developing early stage SaaS products on the Edge and Cloud environments.
 
 
 -- [Howard Young](https://github.com/howardyoung)
