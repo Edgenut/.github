@@ -5,4 +5,4 @@ Edgenut Systems, LLC is an incubator company for developing early stage SaaS pro
 
 -- [Howard Young](https://github.com/howardyoung)
 
-Founder, [Edgenut Labs, LLC](https://edgenut.com)
+Founder, [Edgenut Systems, LLC](https://edgenut.com)
